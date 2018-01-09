@@ -216,6 +216,7 @@ public class MainClass {
     }
 
     public static void main(String[] args) throws FileNotFoundException {
+        System.out.println("your Application is Starting... Please Wait a moment.");
         new MainClass().processInput();
     }
 
