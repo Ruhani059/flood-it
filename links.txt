@@ -1,0 +1,29 @@
+A* - Mario AI
+http://julian.togelius.com/mariocompetition2009/
+https://github.com/RobinB/mario-astar-robinbaumgarten
+http://aigamedev.com/open/interviews/mario-ai/
+http://aigamedev.com/open/interviews/mario-ai/
+
+
+
+Assinment 3: BlackJack
+http://cs.nyu.edu/courses/spring12/CSCI-GA.2560-001/
+
+Forward Chaining ALgorithms, Game Search:
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/assignments/
+
+
+Prolog:
+http://www.inf.ed.ac.uk/teaching/courses/aipp/
+
+
+Local Search:
+http://homepage.cs.uiowa.edu/~hzhang/c145/
+
+Minimax:
+http://homepage.cs.uiowa.edu/~hzhang/c145/homework3.html
+
+Prolog:
+http://homepage.cs.uiowa.edu/~hzhang/c145/homework4.hd 
+
+Good link: http://homepage.cs.uiowa.edu/~hzhang/c145/
